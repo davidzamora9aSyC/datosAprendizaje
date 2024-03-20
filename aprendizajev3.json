@@ -1,0 +1,54 @@
+[
+    {
+      "nombre": "Basic concepts",
+      "hijos": [
+        {
+          "nombre": "Introduction to Economics",
+          "link": "https://www.youtube.com/watch?v=dQw4w9WgXcQ"
+        },
+        {
+          "nombre": "Principles of Accounting",
+          "link": "https://www.youtube.com/watch?v=r5eZcLR5ztg"
+        }
+      ]
+    },
+    {
+      "nombre": "Investment analysis",
+      "hijos": [
+        {
+          "nombre": "Market Trends",
+          "link": "https://www.youtube.com/watch?v=dQw4w9WgXcQ"
+        },
+        {
+          "nombre": "Risk Assessment",
+          "link": "https://www.youtube.com/watch?v=dQw4w9WgXcQ"
+        }
+      ]
+    },
+    {
+      "nombre": "Fixed-income instruments",
+      "hijos": [
+        {
+          "nombre": "Bonds Fundamentals",
+          "link": "https://www.youtube.com/watch?v=dQw4w9WgXcQ"
+        },
+        {
+          "nombre": "Bond Market Strategies",
+          "link": "https://www.youtube.com/watch?v=dQw4w9WgXcQ"
+        }
+      ]
+    },
+    {
+      "nombre": "Variable-income instruments",
+      "hijos": [
+        {
+          "nombre": "Stocks and Shares",
+          "link": "https://www.youtube.com/watch?v=dQw4w9WgXcQ"
+        },
+        {
+          "nombre": "Dividends Analysis",
+          "link": "https://www.youtube.com/watch?v=dQw4w9WgXcQ"
+        }
+      ]
+    }
+  ]
